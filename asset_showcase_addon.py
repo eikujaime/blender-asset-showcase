@@ -8,7 +8,7 @@ addon_file_path = os.path.join(addon_base_path, "__init__.py")  # nombre correct
 addon_code = """
 bl_info = {
     "name": "Asset Showcase",
-    "author": "Eiku & ChatGPT",
+    "author": "Eiku",
     "version": (1, 0),
     "blender": (3, 5, 0),
     "location": "View3D > Sidebar > Assets",
