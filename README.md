@@ -46,7 +46,7 @@ La imagen renderizada se guarda en la misma carpeta del `.blend`.
 ## 🧙 Autor
 
 Creado por **Eiku** 🇦🇷  
-Addon desarrollado con ayuda de ChatGPT.
+
 
 ---
 
